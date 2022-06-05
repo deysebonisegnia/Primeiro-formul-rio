@@ -1,0 +1,182 @@
+@import url(https://dl.dafont.com/dl/?f=infiilus);
+*{
+    
+     background-color:#f9f9f9;
+}
+#logo{ 
+    margin-top: -3%;
+    margin-left: 10%;
+    display: flex;
+}
+#title{
+    margin-top: 0%;
+    margin-left: 30%;
+    color:#111010;
+    transition:  0.8s ease-in-out;
+    display :flex;
+    
+}
+#subtitle{
+    margin-top: 2%;
+    margin-left: 35%;
+    color:#0e0e0e;
+}
+.text-input{
+    color:#0e0e0e;
+     
+}
+.text-input:hover{
+    background-color:#f8a7a7;
+    transition:all o.8s ease-in-out;
+    border-radius:1rem;
+    cursor:pointer;  
+}
+.btn{
+    background-color:rgb(247, 241, 241);
+    cursor :pointer;
+    transition: all 0.8s ease-in-out;
+    border-radius: 1rem;
+    margin-left: 34%;
+
+}
+.btn:hover{
+    background-color:#f8a7a7;
+    
+    transform: scale(1.3)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
